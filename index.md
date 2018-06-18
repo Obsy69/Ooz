@@ -1,5 +1,7 @@
 
-### Gamedev ressources 
+### Liens utiles
+
+## Ressources 
 
 | Interface utilisateur  | Modèles 3D  | Sonds  | Images | Polices |
 |---|---|---|---|---|
@@ -10,9 +12,16 @@
 |   |   | [incompetech: compositor work ](http://incompetech.com/) |   |  |
 
 
+## Blogs de développeurs
 [pro gamedev blogs](http://www.thegameengineer.com/blog/category/gamedevelopment/)
-[Game from scracth](http://www.gamefromscratch.com/)
 
+## Tutoriels
+[Game from scracth](http://www.gamefromscratch.com/)
+[Git tutos](http://ohshitgit.com/)
+[Markdown tutos](https://guides.github.com/features/mastering-markdown/)
+
+## Projets githubs inspirants
+[Cannonball](https://github.com/djyt/cannonball/wiki)
 
 ## Welcome to GitHub Pages
 
