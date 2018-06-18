@@ -37,3 +37,9 @@
 [Anatomie 3D](https://anatomy360.info/anatomy-scan-reference-dump/)
 
 [Art algorythmique](http://www.tylerlhobbs.com/writings/watercolor)
+
+[Pixel art redimenssionnement](https://blog.demofox.org/2015/08/15/resizing-images-with-bicubic-interpolation/)
+
+[Algorithmes botaniques](http://algorithmicbotany.org/papers/)
+
+[500 structures et algorithmes](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions)
