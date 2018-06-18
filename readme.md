@@ -29,5 +29,8 @@
 ### Projets github inspirants
 [Cannonball](https://github.com/djyt/cannonball/wiki)
 
-### Qt
-[Mes liens en vrac](http://lanceflorian.eu/index.php/blog/190-2/qt-links/)
+### Divers
+[Mes liens en vrac pour Qt](http://lanceflorian.eu/index.php/blog/190-2/qt-links/)
+[Ressources 3D de la NASA](https://nasa3d.arc.nasa.gov/)
+[Anatomie 3D](https://anatomy360.info/anatomy-scan-reference-dump/)
+
