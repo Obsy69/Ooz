@@ -21,7 +21,7 @@
 |[Reddit](https://www.reddit.com/r/gamedev/)   |   |   |   |
 
 
-### Projets githubs inspirants
+### Projets github inspirants
 [Cannonball](https://github.com/djyt/cannonball/wiki)
 
 ### Qt
