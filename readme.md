@@ -3,7 +3,7 @@
 
 ### Ressources 
 
-| Interface utilisateur  | Modèles 3D  | Sonds  | Images | Polices |
+| Interface utilisateur  | Modèles 3D  | Sons  | Images | Polices |
 |---|---|---|---|---|
 | [Eléments UI 2D](https://pixelsticky.wordpress.com/2015/06/27/free-ui-resources-for-game-developers/)  | [sharecg](http://www.sharecg.com/)  | [sonniss: 10go de son qualité pro](http://www.sonniss.com/)  | [Photos libres](https://stocksnap.io/)  | [dafont]( http://www.dafont.com/fr/) |
 | [Icônes n&b](http://game-icons.net/)  | [tf3dm](http://tf3dm.com/)  | [soundbible: plein de sons variés](http://soundbible.com/)  | [Hight-res photos](https://unsplash.com/)  | [fontspace](http://www.fontspace.com/) |
