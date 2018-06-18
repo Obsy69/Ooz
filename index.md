@@ -1,13 +1,17 @@
 
 
 
-| UI  | 3D models  | Sounds  | Images | Fonts |
+| Interface utilisateur  | Modèles 3D  | Sonds  | Images | Polices |
 |---|---|---|---|---|
-|   |   | [sonniss: 10go library pro quality](http://www.sonniss.com/)  |   | [dafont]( http://www.dafont.com/fr/) |
-|   |   | [soundbible: lots of various sounds](http://soundbible.com/)  |   | [fontspace](http://www.fontspace.com/) |
-|   |   | [soundjay: (same)](https://www.soundjay.com/)  |   | [google font](https://fonts.google.com/)  |
-|   |   | [freesound: (same)](http://www.freesound.org/)  |   |  |
-|   |   | [incompetech: compositor work wit lots of CC ](http://incompetech.com/) |   |  |
+| [Free ui elements](https://pixelsticky.wordpress.com/2015/06/27/free-ui-resources-for-game-developers/)  | [sharecg](http://www.sharecg.com/)  | [sonniss: 10go library pro quality](http://www.sonniss.com/)  | [Free stock photos](https://stocksnap.io/)  | [dafont]( http://www.dafont.com/fr/) |
+| [Free b&w icons](http://game-icons.net/)  | [tf3dm](http://tf3dm.com/)  | [soundbible: lots of various sounds](http://soundbible.com/)  | [Free hight-res stock](https://unsplash.com/)  | [fontspace](http://www.fontspace.com/) |
+| [Others free photos](http://www.kaboompics.com/)  | [turbosquid](https://www.turbosquid.com/)  | [soundjay: (same)](https://www.soundjay.com/)  |   | [google font](https://fonts.google.com/)  |
+|   | [3dtotal](http://www.3dtotal.com/)  | [freesound: (same)](http://www.freesound.org/)  |   |  |
+|   |   | [incompetech: compositor work ](http://incompetech.com/) |   |  |
+
+
+[pro gamedev blogs](http://www.thegameengineer.com/blog/category/gamedevelopment/)
+[Game from scracth](http://www.gamefromscratch.com/)
 
 
 ## Welcome to GitHub Pages
