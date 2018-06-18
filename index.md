@@ -20,6 +20,8 @@
 |[Game from scratch](http://www.gamefromscratch.com/)   |   |   | [Markdown tutos](https://guides.github.com/features/mastering-markdown/)  |
 |[Reddit](https://www.reddit.com/r/gamedev/)   |   |   |   |
 
+### Librairies
+[SFML](https://www.sfml-dev.org/index-fr.php)
 
 ### Projets github inspirants
 [Cannonball](https://github.com/djyt/cannonball/wiki)
