@@ -14,6 +14,7 @@
 
 ### Blogs de développeurs
 [pro gamedev blogs](http://www.thegameengineer.com/blog/category/gamedevelopment/)
+[Génération procédurale](https://www.reddit.com/r/proceduralgeneration/)
 
 ### Tutoriels
 [Game from scracth](http://www.gamefromscratch.com/)
@@ -23,40 +24,14 @@
 ### Projets githubs inspirants
 [Cannonball](https://github.com/djyt/cannonball/wiki)
 
-### Welcome to GitHub Pages
+### Général
+[Comment finir ses projets persos](http://www.jesuisundev.fr/comment-enfin-finir-votre-projet-dev-perso/)
 
-You can use the [editor on GitHub](https://github.com/Obsy69/OozProject/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Mathématiques
+[Mes liens en vrac](http://lanceflorian.eu/index.php/blog/190-2/algorithms-and-mathematics-links/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### C++
+[Mes liens en vrac](http://lanceflorian.eu/index.php/blog/190-2/c-links/)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Obsy69/OozProject/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Qt
+[Mes liens en vrac][http://lanceflorian.eu/index.php/blog/190-2/qt-links/)
