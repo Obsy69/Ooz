@@ -12,26 +12,17 @@
 |   |   | [incompetech: compositor work ](http://incompetech.com/) |   |  |
 
 
-### Blogs de développeurs
-[pro gamedev blogs](http://www.thegameengineer.com/blog/category/gamedevelopment/)
-[Génération procédurale](https://www.reddit.com/r/proceduralgeneration/)
+### Tutoriels/Blogs
+| Gamedev | Mathématiques | C++ | Général | 
+|---|---|---|---|
+|[pro blogs](http://www.thegameengineer.com/blog/category/gamedevelopment/)|[Mes liens en vrac](http://lanceflorian.eu/index.php/blog/190-2/algorithms-and-mathematics-links/)   | [Mes liens en vrac](http://lanceflorian.eu/index.php/blog/190-2/c-links/)  | [Comment finir ses projets persos](http://www.jesuisundev.fr/comment-enfin-finir-votre-projet-dev-perso/)  |
+|[Génération procédurale](https://www.reddit.com/r/proceduralgeneration/)   |   |   | [Git tutos](http://ohshitgit.com/)  |
+|[Game from scratch](http://www.gamefromscratch.com/)   |   |   | [Markdown tutos](https://guides.github.com/features/mastering-markdown/)  |
+|   |   |   |   |
 
-### Tutoriels
-[Game from scratch](http://www.gamefromscratch.com/)
-[Git tutos](http://ohshitgit.com/)
-[Markdown tutos](https://guides.github.com/features/mastering-markdown/)
 
 ### Projets githubs inspirants
 [Cannonball](https://github.com/djyt/cannonball/wiki)
-
-### Général
-[Comment finir ses projets persos](http://www.jesuisundev.fr/comment-enfin-finir-votre-projet-dev-perso/)
-
-### Mathématiques
-[Mes liens en vrac](http://lanceflorian.eu/index.php/blog/190-2/algorithms-and-mathematics-links/)
-
-### C++
-[Mes liens en vrac](http://lanceflorian.eu/index.php/blog/190-2/c-links/)
 
 ### Qt
 [Mes liens en vrac](http://lanceflorian.eu/index.php/blog/190-2/qt-links/)
