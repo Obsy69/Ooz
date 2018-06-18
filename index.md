@@ -5,11 +5,11 @@
 
 | Interface utilisateur  | Modèles 3D  | Sonds  | Images | Polices |
 |---|---|---|---|---|
-| [Free ui elements](https://pixelsticky.wordpress.com/2015/06/27/free-ui-resources-for-game-developers/)  | [sharecg](http://www.sharecg.com/)  | [sonniss: 10go library pro quality](http://www.sonniss.com/)  | [Free stock photos](https://stocksnap.io/)  | [dafont]( http://www.dafont.com/fr/) |
-| [Free b&w icons](http://game-icons.net/)  | [tf3dm](http://tf3dm.com/)  | [soundbible: lots of various sounds](http://soundbible.com/)  | [Free hight-res stock](https://unsplash.com/)  | [fontspace](http://www.fontspace.com/) |
-| [Others free photos](http://www.kaboompics.com/)  | [turbosquid](https://www.turbosquid.com/)  | [soundjay: (same)](https://www.soundjay.com/)  |   | [google font](https://fonts.google.com/)  |
+| [Eléments UI 2D](https://pixelsticky.wordpress.com/2015/06/27/free-ui-resources-for-game-developers/)  | [sharecg](http://www.sharecg.com/)  | [sonniss: 10go de son qualité pro](http://www.sonniss.com/)  | [Photos libres](https://stocksnap.io/)  | [dafont]( http://www.dafont.com/fr/) |
+| [Icônes n&b](http://game-icons.net/)  | [tf3dm](http://tf3dm.com/)  | [soundbible: plein de sons variées](http://soundbible.com/)  | [Hight-res photos](https://unsplash.com/)  | [fontspace](http://www.fontspace.com/) |
+| [Autres photos libres](http://www.kaboompics.com/)  | [turbosquid](https://www.turbosquid.com/)  | [soundjay: (same)](https://www.soundjay.com/)  |   | [polices google ](https://fonts.google.com/)  |
 |   | [3dtotal](http://www.3dtotal.com/)  | [freesound: (same)](http://www.freesound.org/)  |   |  |
-|   |   | [incompetech: compositor work ](http://incompetech.com/) |   |  |
+|   |   | [incompetech: travail d'un compoisiteur ](http://incompetech.com/) |   |  |
 
 
 ### Tutoriels/Blogs
