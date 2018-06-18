@@ -3,11 +3,11 @@
 
 | UI  | 3D models  | Sounds  | Images | Fonts |
 |---|---|---|---|---|
-|   |   | http://www.sonniss.com/  |   |  http://www.dafont.com/fr/ |
-|   |   | http://soundbible.com/  |   |  http://www.fontspace.com/ |
-|   |   | https://www.soundjay.com/  |   | https://fonts.google.com/  |
-|   |   | http://www.freesound.org/  |   |  |
-|   |   | http://incompetech.com/ |   |  |
+|   |   | [sonniss: 10go library pro quality](http://www.sonniss.com/)  |   | [dafont]( http://www.dafont.com/fr/) |
+|   |   | [soundbible: lots of various sounds](http://soundbible.com/)  |   | [fontspace](http://www.fontspace.com/) |
+|   |   | [soundjay: (same)](https://www.soundjay.com/)  |   | [google font](https://fonts.google.com/)  |
+|   |   | [freesound: (same)](http://www.freesound.org/)  |   |  |
+|   |   | [incompetech: compositor work wit lots of CC ](http://incompetech.com/) |   |  |
 
 
 ## Welcome to GitHub Pages
