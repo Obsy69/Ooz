@@ -1,7 +1,7 @@
 
-### Liens utiles
+## Liens utiles
 
-## Ressources 
+### Ressources 
 
 | Interface utilisateur  | Modèles 3D  | Sonds  | Images | Polices |
 |---|---|---|---|---|
@@ -12,18 +12,18 @@
 |   |   | [incompetech: compositor work ](http://incompetech.com/) |   |  |
 
 
-## Blogs de développeurs
+### Blogs de développeurs
 [pro gamedev blogs](http://www.thegameengineer.com/blog/category/gamedevelopment/)
 
-## Tutoriels
+### Tutoriels
 [Game from scracth](http://www.gamefromscratch.com/)
 [Git tutos](http://ohshitgit.com/)
 [Markdown tutos](https://guides.github.com/features/mastering-markdown/)
 
-## Projets githubs inspirants
+### Projets githubs inspirants
 [Cannonball](https://github.com/djyt/cannonball/wiki)
 
-## Welcome to GitHub Pages
+### Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Obsy69/OozProject/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
