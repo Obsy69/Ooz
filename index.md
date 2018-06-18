@@ -17,7 +17,7 @@
 [Génération procédurale](https://www.reddit.com/r/proceduralgeneration/)
 
 ### Tutoriels
-[Game from scracth](http://www.gamefromscratch.com/)
+[Game from scratch](http://www.gamefromscratch.com/)
 [Git tutos](http://ohshitgit.com/)
 [Markdown tutos](https://guides.github.com/features/mastering-markdown/)
 
