@@ -21,7 +21,9 @@
 |[Reddit](https://www.reddit.com/r/gamedev/)   |   |   |   |
 
 ### Librairies
+
 [SFML](https://www.sfml-dev.org/index-fr.php)
+
 [Tuto OpenGL](https://learnopengl.com/Getting-started/OpenGL)
 
 ### Projets github inspirants
