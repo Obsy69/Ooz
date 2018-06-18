@@ -34,4 +34,4 @@
 [Mes liens en vrac](http://lanceflorian.eu/index.php/blog/190-2/c-links/)
 
 ### Qt
-[Mes liens en vrac][http://lanceflorian.eu/index.php/blog/190-2/qt-links/)
+[Mes liens en vrac](http://lanceflorian.eu/index.php/blog/190-2/qt-links/)
